@@ -1,0 +1,6 @@
+{
+  "name": "صفحة هبوط للشركات",
+  "description": "صفحة هبوط احترافية متجاوبة للشركات، تحتوي على أقسام تفاعلية بتصميم فخم ومتحرك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
